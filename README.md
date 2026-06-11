@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Typing animation banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Monirom+;CIT+Student+%40+ITC+Cambodia;Full-Stack+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Monirom+;GIC+Student+%40+ITC+Cambodia;ll Full-Stack+%26+Cybersecurity+Enthusiast" alt="Typing SVG" style="" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/ITC%20Cambodia-CIT%20Department-6366f1?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Yi-Monirom&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -21,7 +21,7 @@ department:  Communication and Information Technology (CIT)
 location:    Phnom Penh, Cambodia 
 focus:       Full-Stack Development · Cybersecurity
 currently:   Building projects & preparing for internships
-platforms:   TryHackMe · Hack The Box
+platforms:   Owasp Juice-shop . ITCbank(school Lab)  
 ```
 
 ---
@@ -87,14 +87,12 @@ platforms:   TryHackMe · Hack The Box
 
 ## Featured Projects
 
-> Replace the placeholders below with your actual repos — just update the `YOUR_GITHUB_USERNAME` and repo names.
+> Replace the placeholders below with your actual repos — just update the `Yi-Monirom` and repo names.
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&border_color=6366f1)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&border_color=6366f1)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_3&theme=tokyonight&border_color=6366f1)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_3)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_4&theme=tokyonight&border_color=6366f1)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_4)
+[![Project 1](https://private-user-images.githubusercontent.com/158045577/408856059-c2b2f72c-c20a-40c7-8e65-11154088319e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODEyMDIyNDcsIm5iZiI6MTc4MTIwMTk0NywicGF0aCI6Ii8xNTgwNDU1NzcvNDA4ODU2MDU5LWMyYjJmNzJjLWMyMGEtNDBjNy04ZTY1LTExMTU0MDg4MzE5ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDYxMVQxODE5MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NzcyYTE1M2IzY2VlOWMwNzA3NzU0YThmMTQzNDk0ZDQyOWQ2NDM3MTViZDQ3NDM3ZDlhOTRmYjQxODZlM2EwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.BcpawRD_J7g1AD5TPov3PaqODzQg-DyD27cuDK2CEqk)](https://github.com/Yi-Monirom/2D_GAME.git)
+
 
 </div>
 
@@ -104,14 +102,14 @@ platforms:   TryHackMe · Hack The Box
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_color=6366f1&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_color=6366f1&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yi-Monirom&show_icons=true&theme=tokyonight&border_color=6366f1&hide_border=false&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yi-Monirom&layout=compact&theme=tokyonight&border_color=6366f1&hide_border=false" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border=6366f1" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Yi-Monirom&theme=tokyonight&border=6366f1" height="165"/>
 
 </div>
 
@@ -121,7 +119,7 @@ platforms:   TryHackMe · Hack The Box
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yi-Monirom&theme=tokyonight&no-frame=false&column=7&margin-w=8"/>
 
 </div>
 
