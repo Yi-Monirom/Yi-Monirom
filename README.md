@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Typing animation banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Monirom+;GIC+Student+%40+ITC+Cambodia;ll Full-Stack+%26+Cybersecurity+Enthusiast" alt="Typing SVG" style="" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Monirom+;GIC+Student+%40+ITC+Cambodia; Full-Stack+%26+Cybersecurity+Enthusiast" alt="Typing SVG" style="" />
 
-<br/>
+<br/> -->
 
-<img src="https://img.shields.io/badge/ITC%20Cambodia-CIT%20Department-6366f1?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/ITC%20-GIC%20Department-6366f1?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=Yi-Monirom&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
 
 </div>
